@@ -1,4 +1,4 @@
 # Web-Development-Project-1
-<h1>This is my first git repository.</h1>
+This is my first git repository.
 <br>
 Author: Baheej Mukhtar
